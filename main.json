@@ -1,12 +1,50 @@
 {
-  "profile":{
- "name":"koushik arvapalli",
- "image":"k.jpg",
- "email":"saikoushik.a@gmail.com",
- "mobile":"8297224466",
- "address":"pvp college"
+ "details":{
+  "name": "saikoushik",
+  "image":"k.jpg",
+  "phoneno":"8297224466",
+  "email":"saikoushik.a@gmail.com",
+  "address":"PVP College"
 },
-"career":{
-  "info":"to pursue a challenging carrer and be a part of best organisation"
-}
-}
+
+   "career":{
+     "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+   },
+   "education":[
+     {
+       "degree":"B.Tech",
+       "institute":"PVPSIT",
+       "data":["2016-20]","80%"]
+     },
+     {
+       "degree":"Intermediate",
+       "institute":"narayana Junior College",
+       "data":["2014-16","80%"]
+     },
+     {
+       "degree":"S.S.C",
+       "institute":"krishnaveni talent School",
+       "data":["2014","78%"]
+     }
+   ],
+
+   "skills":[
+     {
+       "title":"Programming Language",
+       "info":["C","C++","Python","Java","Ruby","R"]
+     },
+     {
+       "title":"Databases",
+       "info":["Oracle","mySql","Sql"]
+     },
+     {
+       "title":"Operating Systems",
+       "info":["Windows","MAC","Unix","kaliLinux"]
+     },
+     {
+       "title":"Web Technologies",
+       "info":["HTML","CSS","XML","JavaSript"]
+     }
+   ]
+
+ }
